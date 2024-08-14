@@ -1,0 +1,12 @@
+h2{
+  background-color: red;
+}
+.hi{
+  display: inline;
+}
+body{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
